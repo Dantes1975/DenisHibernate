@@ -23,8 +23,9 @@
 <!--            <property name="javax.persistence.sql-load-script-source" value="database/init.sql" />-->
             <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect" />
             <property name="hibernate.show_sql" value="true" />
-            <!--             <property name="hibernate.format_sql" value="true"/>
-          -->
+<!--            <property name="hibernate.format_sql" value="true"/>-->
+
+
         </properties>
     </persistence-unit>
 </persistence>

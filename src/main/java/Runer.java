@@ -74,6 +74,6 @@ public class Runer {
         for (Project p : projects1) {
             System.out.println(p.getProjectName());
         }
-emploeeDao.delete(1);
+        emploeeDao.delete(1);
     }
 }
